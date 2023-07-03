@@ -1,6 +1,6 @@
 import unittest
 
-from squaring_solution import (
+from squaring import (
     square_visual,
 )
 
