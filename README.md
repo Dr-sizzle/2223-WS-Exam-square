@@ -6,7 +6,9 @@ Squaring for your friend meant putting each digit of the number into a different
 
 would become a square grid:
 
-1 2 34 5 67 8 9
+1 2 3
+4 5 6
+7 8 9
 
 Thank god, your friend isn't very particular about maths. So,
 
@@ -14,7 +16,9 @@ Thank god, your friend isn't very particular about maths. So,
 
 would also become the same grid:
 
-1 2 34 5 67 8 9
+1 2 3
+4 5 6
+7 8 9
 
 Can you help your friend create such a grid for each number not smaller than 1000?
 
